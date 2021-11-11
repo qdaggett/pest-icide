@@ -11,3 +11,6 @@ Credits:
 - Moishe Grosh: Character modeller, animator
 - Jean Duchene: Animator
 - Regan Tran: Environment modeller
+
+[![Gameplay footage here](/uploads/22d8852f867423a6455e429f4f11f200/pest-icide_image.png)](https://www.youtube.com/watch?v=ewOc-BC2KE0)
+
